@@ -1,0 +1,14 @@
+C:\Users\BFI ITG\Desktop\practical1\bin\Debug\net8.0\practical1.exe
+C:\Users\BFI ITG\Desktop\practical1\bin\Debug\net8.0\practical1.deps.json
+C:\Users\BFI ITG\Desktop\practical1\bin\Debug\net8.0\practical1.runtimeconfig.json
+C:\Users\BFI ITG\Desktop\practical1\bin\Debug\net8.0\practical1.dll
+C:\Users\BFI ITG\Desktop\practical1\bin\Debug\net8.0\practical1.pdb
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.AssemblyInfoInputs.cache
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.AssemblyInfo.cs
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.csproj.CoreCompileInputs.cache
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.dll
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\refint\practical1.dll
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.pdb
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\practical1.genruntimeconfig.cache
+C:\Users\BFI ITG\Desktop\practical1\obj\Debug\net8.0\ref\practical1.dll
